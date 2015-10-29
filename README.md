@@ -13,17 +13,17 @@ Week 4     | Week 7 and 8 | Your Project
 
 Check out the full [Table of Contents](SUMMARY.md).
 
-## Exercises
+## Assignments
 
-Each class will have exercises for lab and homework. You can find these in the exercises in each chapter subdirectory.
+Each class will have assignments for lab and homework. You can find these in the assignemnts subdirectory in each chapter.
 
-For students, make a subfodler within the exercises folder and submit your homework with a Pull Request
+For students, make a subfodler within the assigments folder and submit your homework with a Pull Request and within Canvas.
 
 ## Building This Project Locally
 
-This course project is a gitbook. This allows it to be read on Github, published to a web server, or PDF, EPUB and MOBI.
+This course project is a [Gitbook](http://gitbook.com). This allows it to be read on Github, published to a web server, or PDF, EPUB and MOBI.
 
-To read and edit the gitbook on your own machine, after cloning this repo, execute these commands in Terminal:
+To read and edit the Gitbook on your own machine, after cloning this repo, execute these commands in Terminal:
 ```
 npm -g install gitbook-cli
 gitbook serve
