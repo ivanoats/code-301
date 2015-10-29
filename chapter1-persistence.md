@@ -63,7 +63,18 @@ CREATE TABLE example(
 ```
 
 ## Data types
+A data type is a constraint on the kind of data a column can have. Having strong types can ensure that you are collecting accurate data. 
 
+Example types are: 
+- Integer
+- Float
+- Char
+- Varchar
+- Text
+- Date
+- Time
+
+---
 
 # What is a Model?
 
