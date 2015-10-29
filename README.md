@@ -1,10 +1,10 @@
 # Introduction
 
-We are going to learn about many different topics of web development. The overall structure will be based on Model-View-Controller (MVC), which is a common design pattern for web applications.
+We are going to learn about many different topics of web development. The overall structure is based on Model-View-Controller (MVC), which is a common design pattern for web applications.
 
-The overall course schedule is:
+The general course schedule is:
 
-Full Time  | Part Time    | Overall Topic
+Full Time  | Part Time    | Topic
 -----------|--------------|---------------
 Week 1     | Week 1 and 2 | The Model
 Week 2     | Week 3 and 4 | The View
