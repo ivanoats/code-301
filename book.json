@@ -1,0 +1,6 @@
+{
+  "title": "Code 301",
+  "description": "Code Fellows 301 Curriculum",
+  "language": "en",
+  "plugins": ["ace", "exercises"]
+}
