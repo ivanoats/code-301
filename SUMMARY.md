@@ -1,4 +1,6 @@
 # Summary
 
-* [Chapter 1](chapter1.md)
-* [Chapter 2](chapter2.md)
+* [Persistence](chapter1-persistence.md)
+* [CRUD a Resource](chapter2-crud.md)
+* [Functional Data Processing](chapter3-functional.md)
+* [Relational Data](chapter4-relations-joins.md)
