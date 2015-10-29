@@ -11,6 +11,8 @@ Week 2     | Week 3 and 4 | The View
 Week 3     | Week 5 and 6 | The Controller
 Week 4     | Week 7 and 8 | Your Project
 
+Check out the full [Table of Contents](SUMMARY.md).
+
 ## Exercises
 
 Each class will have exercises for lab and homework. You can find these in the exercises in each chapter subdirectory.
@@ -34,8 +36,8 @@ Slides should be placed in each chapter's subdirectory
 To run the RemarkJS slideshows, use live-server or something similar, e.g.:
 
 ```
-npm- g install live-server
+npm -g install live-server
 live-server chapter1-persistence
 ```
 
-Keynote, PPT, and PDF slides can also be put in the directories
+Keynote, Keynote HTML exports, PPT, PPT HTML exports, and PDF slides can also be put in the directories.
