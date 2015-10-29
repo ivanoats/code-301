@@ -27,9 +27,11 @@ Each row is also called a record. It contains each individual or particular valu
 ---
 # Structured Query Language (SQL)
 
-Structured Query Language (SQL) is a special-purpose programming language designed for managing data
+Structured Query Language (SQL) is a special-purpose programming language designed for managing data. Developers use SQL for inserting new data, retrieving data, updating data, and deleting data. 
 
+SQL statments are made up of clauses, expressions, and predicates as you can see in the image below:
 
+![sql query](https://upload.wikimedia.org/wikipedia/commons/a/aa/SQL_ANATOMY_wiki.svg)
 ---
 
 # What is a Model?
