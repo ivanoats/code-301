@@ -31,7 +31,7 @@ Structured Query Language (SQL) is a special-purpose programming language design
 
 SQL statments are made up of clauses, expressions, and predicates as you can see in the image below:
 
-![sql query](https://upload.wikimedia.org/wikipedia/commons/a/aa/SQL_ANATOMY_wiki.svg)
+![sql query](images/SQL_ANATOMY_wiki.svg)
 ---
 
 # What is a Model?
