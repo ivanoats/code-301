@@ -23,8 +23,11 @@ Each column is a particular type of data, like name, or age. The types may be an
 
 Each row is also called a record. It contains each individual or particular value. It is usually best practice for each record to have a unique identifier. In our example above, it is the 'id' column.
 
+
 ---
 # Structured Query Language (SQL)
+
+Structured Query Language (SQL) is a special-purpose programming language designed for managing data
 
 
 ---
