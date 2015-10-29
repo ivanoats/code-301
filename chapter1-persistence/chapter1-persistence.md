@@ -1,12 +1,23 @@
 # Persistence
 
-It would be frustrating and disappointing if all your data kept disappearing!  Web applications need a way to store data. This process is also called persistence. Persistence is typically on the server, but can also be in the browser.
+It would be frustrating and disappointing if all your data kept disappearing!
+
+Web applications need a way to store data. This process is also called persistence.
+
+Persistence is typically on the server, but can also be in the browser.
 
 ---
 # What is a Database?
 
-A database is an organized collection of data. Database Management Systems (DBMS) have a wide variety of internal architectures, but typically they are composed of tables of data. Another rapidly growing alternative are documents. We will stick to table based databases because they are still the most common.
+A database is an organized collection of data.
 
+Database Management Systems (DBMS) have a wide variety of internal architectures, but typically they are composed of **tables** of data.
+
+Another rapidly growing alternative are documents.
+
+We will stick to table based databases because they are still the most common.
+
+---
 ## Database Tables
 
 A table has columns and rows, like this:
@@ -27,12 +38,13 @@ Each row is also called a record. It contains each individual or particular valu
 ---
 # Structured Query Language (SQL)
 
-Structured Query Language (SQL) is a special-purpose programming language designed for managing data. Developers use SQL for inserting new data, retrieving data, updating data, and deleting data. 
+Structured Query Language (SQL) is a special-purpose programming language designed for managing data. Developers use SQL for inserting new data, retrieving data, updating data, and deleting data.
 
-SQL statments are made up of clauses, expressions, and predicates as you can see in the image below:
+SQL statements are made up of clauses, expressions, and predicates as you can see in the image below:
 
 ![sql update statement](images/SQL_ANATOMY_wiki.svg)
 
+---
 ## Queries
 A query retrieves data from one or more tables, or expressions.
 
@@ -62,10 +74,11 @@ CREATE TABLE example(
 );
 ```
 
+---
 ## Data types
-A data type is a constraint on the kind of data a column can have. Having strong types can ensure that you are collecting accurate data. 
+A data type is a constraint on the kind of data a column can have. Having strong types can ensure that you are collecting accurate data.
 
-Example types are: 
+Example types are:
 - Integer
 - Float
 - Char
@@ -103,5 +116,3 @@ Employee.prototype.amountOwed = function (billingRate, hours) {
 # Modeling your Data with SQL
 
 ---
-
-
