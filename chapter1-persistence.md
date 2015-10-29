@@ -32,7 +32,38 @@ Structured Query Language (SQL) is a special-purpose programming language design
 SQL statments are made up of clauses, expressions, and predicates as you can see in the image below:
 
 ![sql update statement](images/SQL_ANATOMY_wiki.svg)
+
+## Queries
+A query retrieves data from one or more tables, or expressions.
+
+```sql
+SELECT isbn,
+       title,
+       price,
+       price * 0.06 AS sales_tax
+ FROM  Book
+ WHERE price > 100.00
+ ORDER BY title;
+ ```
 ---
+
+## Data Definition Language
+
+Data Definition Language (DDL) manages the table and index structure.
+
+The most basic items of DDL are the CREATE, ALTER, RENAME, DROP and TRUNCATE statements. Here's an example of create:
+
+```sql
+CREATE TABLE example(
+ column1 INTEGER,
+ column2 VARCHAR(50),
+ column3 DATE NOT NULL,
+ PRIMARY KEY (column1, column2)
+);
+```
+
+## Data types
+
 
 # What is a Model?
 
