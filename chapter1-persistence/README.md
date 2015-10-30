@@ -63,7 +63,13 @@ SELECT isbn,
 
 Data Definition Language (DDL) manages the table and index structure.
 
-The most basic items of DDL are the CREATE, ALTER, RENAME, DROP and TRUNCATE statements. Here's an example of create:
+The most basic statements in DDL are:
+- [CREATE](http://www.w3schools.com/sql/sql_create_table.asp)
+- [ALTER](http://www.w3schools.com/sql/sql_alter.asp)
+- [DROP](http://www.w3schools.com/sql/sql_drop.asp)
+- [TRUNCATE](http://www.w3schools.com/sql/sql_drop.asp)
+
+Here's an example of create:
 
 ```sql
 CREATE TABLE example(
@@ -76,7 +82,9 @@ CREATE TABLE example(
 
 ---
 ## Data types
-A data type is a constraint on the kind of data a column can have. Having strong types can ensure that you are collecting accurate data.
+A data type is a constraint on the kind of data a column can have.
+
+Having strong types helps you collect accurate and valid data.
 
 Example types are:
 - Integer
@@ -114,5 +122,21 @@ Employee.prototype.amountOwed = function (billingRate, hours) {
 ---
 
 # Modeling your Data with SQL
+
+---
+
+# Creating a WebDB database
+
+---
+
+# Creating a WebDB table
+
+---
+
+# Inserting data into a WebDB table
+
+---
+
+# Querying data in a WebDB table
 
 ---
